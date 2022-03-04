@@ -56,7 +56,7 @@ nav{
 
 }
 .container .check-list .checklist-1{
-    list-style: url(assets/Checkmark.svg);
+    list-style: url(Assets/Checkmark.svg);
     font-size: 0.9rem;
 }
 .mail-input{
